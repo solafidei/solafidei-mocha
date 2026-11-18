@@ -1,0 +1,6 @@
+{
+  "name": "solafidei-mocha",
+  "description": "Day-and-night picture backdrops for the Claude desktop and mobile apps",
+  "owner": { "name": "solafidei" },
+  "plugins": [{ "name": "solafidei-mocha", "source": "./" }]
+}
